@@ -1,1 +1,1 @@
-# -js-fu-doraemon
+# doraemon
