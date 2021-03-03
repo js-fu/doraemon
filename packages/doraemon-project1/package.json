@@ -1,4 +1,5 @@
 {
+  "private": false,
   "name": "@js-fu/doraemon-project1",
   "version": "0.0.3",
   "description": "> TODO: description",
@@ -29,5 +30,5 @@
     "@babel/plugin-transform-runtime": "^7.13.9",
     "@babel/preset-env": "^7.13.9"
   },
-  "gitHead": "a2e3836e6d4101e0dfc3d75c269a782f9bc51586"
+  "gitHead": "dee1becffa7fe395d627ac31763882587c91ea71"
 }
