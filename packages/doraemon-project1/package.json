@@ -28,5 +28,6 @@
     "@babel/core": "^7.13.8",
     "@babel/plugin-transform-runtime": "^7.13.9",
     "@babel/preset-env": "^7.13.9"
-  }
+  },
+  "gitHead": "a2e3836e6d4101e0dfc3d75c269a782f9bc51586"
 }
