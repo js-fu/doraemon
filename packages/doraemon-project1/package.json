@@ -32,5 +32,6 @@
   "publishConfig": {
     "registry": "https://www.npmjs.com/",
     "access": "public"
-  }
+  },
+  "gitHead": "c1cfeddc9d29ef6b44d4e6e07e8aea1dc85ef1e6"
 }
