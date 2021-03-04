@@ -6,7 +6,7 @@ foo();
 async function main() {
   const data = await new Promise((resolve) => {
     setTimeout(() => {
-      resolve({ a: 11111 });
+      resolve({ a: 1 });
     }, 1000);
   });
   console.log(data);
