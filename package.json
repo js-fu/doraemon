@@ -9,7 +9,8 @@
   "main": "index.js",
   "scripts": {
     "build": "lerna run build",
-    "publish": "yarn; yarn build; lerna publish"
+    "publish": "yarn; yarn build; lerna publish",
+    "bootstrap": "lerna bootstrap"
   },
   "keywords": [],
   "author": "",
