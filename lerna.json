@@ -1,7 +1,5 @@
 {
-  "packages": [
-    "packages/*"
-  ],
-  "npmClient": "npm",
+  "packages": ["packages/*"],
+  "npmClient": "yarn",
   "version": "0.0.7"
 }
