@@ -1,6 +1,6 @@
 {
   "private": false,
-  "name": "@js-fu/doraemon-project1",
+  "name": "@js-fu-doraemon/doraemon-project1",
   "version": "0.0.9",
   "description": "> TODO: description",
   "author": "js-fu <15221448373@163.com>",
@@ -30,7 +30,7 @@
     "@babel/plugin-transform-runtime": "^7.13.9",
     "@babel/preset-env": "^7.13.9"
   },
-  "gitHead": "f4c487aa7a3c991aeef09bd78f66cb1e542e8dbc",
+  "gitHead": "1d0a6c36705592eec6ad7f7d4f5ff3bf0d597378",
   "publishConfig": {
     "registry": "https://www.npmjs.com/"
   }
