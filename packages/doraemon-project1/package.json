@@ -30,7 +30,7 @@
     "@babel/plugin-transform-runtime": "^7.13.9",
     "@babel/preset-env": "^7.13.9"
   },
-  "gitHead": "dc855f008597805a46bcc717a4d9aab66870f7c6",
+  "gitHead": "f4c487aa7a3c991aeef09bd78f66cb1e542e8dbc",
   "publishConfig": {
     "registry": "https://www.npmjs.com/"
   }
