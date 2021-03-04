@@ -1,6 +1,6 @@
 {
   "name": "@js-fu-doraemon/doraemon-project1",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "> TODO: description",
   "author": "js-fu <15221448373@163.com>",
   "homepage": "https://github.com/js-fu/doraemon/blob/main/packages/doraemon-project1/README.md",
@@ -30,6 +30,5 @@
   },
   "publishConfig": {
     "registry": "https://www.npmjs.com/"
-  },
-  "dependencies": {}
+  }
 }
