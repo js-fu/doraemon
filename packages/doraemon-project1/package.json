@@ -1,6 +1,6 @@
 {
   "private": false,
-  "name": "@js-fu-doraemon/doraemon-project1",
+  "name": "@js-fu/doraemon-project1",
   "version": "0.0.16",
   "description": "> TODO: description",
   "author": "js-fu <15221448373@163.com>",
@@ -8,15 +8,14 @@
   "license": "ISC",
   "main": "lib/index.js",
   "directories": {
-    "lib": "lib",
-    "test": "__tests__"
+    "lib": "lib"
   },
   "files": [
     "lib"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/js-fu/doraemon.git"
+    "url": "git+https://github.com/js-fu/doraemon.git"
   },
   "scripts": {
     "build": "babel src -d lib"
@@ -30,9 +29,9 @@
     "@babel/plugin-transform-runtime": "^7.13.9",
     "@babel/preset-env": "^7.13.9"
   },
-  "gitHead": "de26dda669fd766d973701819098b8f335732929",
   "publishConfig": {
     "registry": "https://www.npmjs.com/",
     "access": "public"
-  }
+  },
+  "dependencies": {}
 }

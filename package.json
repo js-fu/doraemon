@@ -3,7 +3,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "name": "@js-fu-doraemon/doraemon",
+  "name": "@js-fu/doraemon",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
