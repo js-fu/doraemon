@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "lerna run build",
-    "publish": "npm i; npm run build; lerna publish",
-    "postpublish": ""
+    "publish": "npm i; npm run build; lerna publish"
   },
   "keywords": [],
   "author": "",
